@@ -1,0 +1,8 @@
+html{
+    background-color: black;
+}
+html h1,html h2,html p{
+    color: aliceblue;
+    text-shadow:5px 5px 10px azure;
+    
+}

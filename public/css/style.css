@@ -1,0 +1,11 @@
+.jumbotron{
+    background-image: url(/img/index.jpg);
+
+}
+.jumbotron h1,.jumbotron p{
+    color: azure;
+    text-shadow: 5px 5px 10px rgba(255,255,255,0.5);
+}
+.jumbotron .jumbotron-fluid{
+    background-color:blue;
+}
